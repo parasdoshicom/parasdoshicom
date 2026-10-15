@@ -39,7 +39,7 @@ For example: investigate a checkout drop with ChatData, choose one bounded exper
 - **Run a company experiment:** [five operating judgments](https://github.com/parasdoshicom/zero-human-company-os/tree/main/principles), [worked example](https://github.com/parasdoshicom/zero-human-company-os/blob/main/docs/worked-example.md), [first pilot](https://github.com/parasdoshicom/zero-human-company-os/blob/main/docs/pilot-plan.md).
 - **Build trustworthy analytics:** [ChatData capabilities](https://github.com/parasdoshicom/getchatdata/blob/main/docs/capabilities.md) and [AI + Data Operator playbooks](https://github.com/parasdoshicom/ai-plus-data/tree/main/playbooks).
 - **Improve the writing:** [writing briefs](https://github.com/parasdoshicom/your-voice/blob/main/references/writing-briefs.md), [editing workflows](https://github.com/parasdoshicom/your-voice/blob/main/references/writing-workflows.md), [your own voice profile](https://github.com/parasdoshicom/your-voice/blob/main/references/voice-profile-template.md).
-- **Learn by doing:** [Agentic Analytics in Production workshop](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/).
+- **Learn by doing:** [try the synthetic analytics example](https://github.com/parasdoshicom/ai-plus-data/tree/main/examples/synthetic-funnel).
 
 ## What running the work has taught me
 

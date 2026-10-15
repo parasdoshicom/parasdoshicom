@@ -11,7 +11,6 @@ Four primary projects organize this account. Start with the job; each repository
 
 ## Where the other work belongs
 
-- **[Agentic Analytics in Production](https://github.com/parasdoshicom/world-class-agentic-analytics-in-production):** the guided workshop remains at its working [course URL](https://parasdoshicom.github.io/world-class-agentic-analytics-in-production/), with a route from ChatData. Its site and downloadable lab have their own release checks.
 - **Research forks:** upstream agent runtimes, writing tools, analytics tools and orchestration projects remain reference work. Their original authors and licenses stay credited. They are not additional flagship products or silently bundled dependencies.
 
 ## A useful path through the projects
