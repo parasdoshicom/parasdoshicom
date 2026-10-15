@@ -6,6 +6,8 @@ I build tools for working with AI, checking what it actually did, and carrying t
 
 My work connects three questions: **What should the agent do? What does the evidence support? How should we explain it?** Start with the project closest to your work.
 
+[Subscribe on Substack](https://www.insightextractor.com/) · [LinkedIn](https://www.linkedin.com/in/doshiparas/) · [X](https://x.com/paras_doshi) · [Book 1:1 time](https://topmate.io/parasdoshi) · [Learn with me on Maven](https://maven.com/paras-doshi)
+
 ## Four places to start
 
 | Project | Use it when you want to… | First useful step |
@@ -47,4 +49,16 @@ Break a broad goal into a system. Fix the brittle execution path. Check the dest
 
 I write about these experiments at [Insight Extractor](https://www.insightextractor.com/). [The tiny AI company essay](https://www.insightextractor.com/p/dont-spend-5000-on-an-ai-course-start) is the background to Company Stack.
 
-[LinkedIn](https://www.linkedin.com/in/doshiparas/) · [Writing](https://www.insightextractor.com/) · [Project map](PROJECTS.md)
+## Follow and work with me
+
+Follow along as I build, test, and write about AI and data. If you want help with your own work or career, we can spend time on it together.
+
+| Find me | What you'll find |
+| --- | --- |
+| **[Substack / Insight Extractor](https://www.insightextractor.com/)** | Subscribe for essays on agentic analytics, data leadership, and lessons from running these projects. This is my blog and Substack in one place. |
+| **[LinkedIn](https://www.linkedin.com/in/doshiparas/)** | Follow my posts on AI, data, and careers, and join the discussion. |
+| **[X](https://x.com/paras_doshi)** | Follow my shorter updates and conversations about what I'm trying. |
+| **[Topmate: book time with me](https://topmate.io/parasdoshi)** | Book a live 1:1 session for data and AI advice, career questions, or mock interview practice. Bring a specific challenge and we'll work through it together. |
+| **[Maven: learn with me](https://maven.com/paras-doshi)** | Explore my courses and lessons on AI and analytics. |
+
+[Explore the project map](PROJECTS.md)
