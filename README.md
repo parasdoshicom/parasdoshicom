@@ -1,5 +1,7 @@
 ![Paras Doshi — AI, data and systems that do useful work](assets/header.svg)
 
+# Hi, I’m Paras Doshi
+
 I build tools for working with AI, checking what it actually did, and carrying the learning into the next run.
 
 My work connects three questions: **What should the agent do? What does the evidence support? How should we explain it?** Start with the project closest to your work.
@@ -12,6 +14,19 @@ My work connects three questions: **What should the agent do? What does the evid
 | **[ChatData](https://github.com/parasdoshicom/getchatdata)** | Analyze data, challenge the conclusion, and keep reusable evidence | [Install the skills and try synthetic data](https://github.com/parasdoshicom/getchatdata#install) |
 | **[Your Voice](https://github.com/parasdoshicom/your-voice)** | Write blogs, guides, updates and explanations that preserve meaning and sound like you | [Read the skill](https://github.com/parasdoshicom/your-voice/blob/main/SKILL.md) |
 | **[World-Class AI + Data Operator](https://github.com/parasdoshicom/ai-plus-data)** | Lead AI and data work: strategy, trusted metrics, operating cadence and adoption | [Explore the public operator portfolio](https://github.com/parasdoshicom/ai-plus-data) |
+
+## Try one with your agent
+
+Open one of the four repositories and give your agent this prompt:
+
+```text
+Read the README and the linked getting-started guide.
+Tell me what I can run locally, what needs setup, and what success looks like.
+Help me complete one small example and inspect the result.
+Keep my data private and ask before taking an external action.
+```
+
+Start with the synthetic examples where provided. Bring your own context once you understand the workflow and its checks.
 
 ## Use them together
 
