@@ -1,4 +1,4 @@
-![Paras Doshi — AI, data and systems that do useful work](assets/header.svg)
+![Paras Doshi — AI, data and systems that do useful work](assets/header.svg?v=2)
 
 # Hi, I’m Paras Doshi
 
