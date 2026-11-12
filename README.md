@@ -13,7 +13,7 @@ My work connects three questions: **What should the agent do? What does the evid
 | Project | Use it when you want to… | First useful step |
 |---|---|---|
 | **[Company Stack](https://github.com/parasdoshicom/zero-human-company-os)** | Operate a small digital-product business with bounded agent tasks and checked outcomes | [Run the local company demo](https://github.com/parasdoshicom/zero-human-company-os/blob/main/docs/demo.md) |
-| **[ChatData](https://github.com/parasdoshicom/getchatdata)** | Analyze data, challenge the conclusion, and keep reusable evidence | [Install the skills and try synthetic data](https://github.com/parasdoshicom/getchatdata#install) |
+| **[ChatData](https://github.com/parasdoshicom/AI-Data-Analytics)** | Analyze data, challenge the conclusion, and keep reusable evidence | [Install the skills and try synthetic data](https://github.com/parasdoshicom/AI-Data-Analytics#install) |
 | **[Your Voice](https://github.com/parasdoshicom/your-voice)** | Write blogs, guides, updates and explanations that preserve meaning and sound like you | [Read the skill](https://github.com/parasdoshicom/your-voice/blob/main/SKILL.md) |
 | **[World-Class AI + Data Operator](https://github.com/parasdoshicom/ai-plus-data)** | Lead AI and data work: strategy, trusted metrics, operating cadence and adoption | [Explore the public operator portfolio](https://github.com/parasdoshicom/ai-plus-data) |
 
@@ -39,7 +39,7 @@ For example: investigate a checkout drop with ChatData, choose one bounded exper
 ## Browse by the job
 
 - **Run a company experiment:** [five operating judgments](https://github.com/parasdoshicom/zero-human-company-os/tree/main/principles), [worked example](https://github.com/parasdoshicom/zero-human-company-os/blob/main/docs/worked-example.md), [first pilot](https://github.com/parasdoshicom/zero-human-company-os/blob/main/docs/pilot-plan.md).
-- **Build trustworthy analytics:** [ChatData capabilities](https://github.com/parasdoshicom/getchatdata/blob/main/docs/capabilities.md) and [AI + Data Operator playbooks](https://github.com/parasdoshicom/ai-plus-data/tree/main/playbooks).
+- **Build trustworthy analytics:** [ChatData capabilities](https://github.com/parasdoshicom/AI-Data-Analytics/blob/main/docs/capabilities.md) and [AI + Data Operator playbooks](https://github.com/parasdoshicom/ai-plus-data/tree/main/playbooks).
 - **Improve the writing:** [writing briefs](https://github.com/parasdoshicom/your-voice/blob/main/references/writing-briefs.md), [editing workflows](https://github.com/parasdoshicom/your-voice/blob/main/references/writing-workflows.md), [your own voice profile](https://github.com/parasdoshicom/your-voice/blob/main/references/voice-profile-template.md).
 - **Learn by doing:** [try the synthetic analytics example](https://github.com/parasdoshicom/ai-plus-data/tree/main/examples/synthetic-funnel).
 

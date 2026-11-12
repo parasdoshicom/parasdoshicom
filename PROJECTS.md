@@ -5,7 +5,7 @@ Four primary projects organize this account. Start with the job; each repository
 | Priority | Project | Responsibility |
 |---|---|---|
 | 1 | [Company Stack](https://github.com/parasdoshicom/zero-human-company-os) | Business workflow, bounded execution, verification and learning |
-| 2 | [ChatData](https://github.com/parasdoshicom/getchatdata) | Open-source agentic analytics skills, runnable checks and reusable evidence |
+| 2 | [ChatData](https://github.com/parasdoshicom/AI-Data-Analytics) | Open-source agentic analytics skills, runnable checks and reusable evidence |
 | 3 | [Your Voice](https://github.com/parasdoshicom/your-voice) | Drafting, editing, reader judgment and preserving the writer's meaning |
 | 4 | [World-Class AI + Data Operator](https://github.com/parasdoshicom/ai-plus-data) | Public leadership portfolio: strategy, operating models, trusted metrics and reusable CDO/VP-AI practices |
 
