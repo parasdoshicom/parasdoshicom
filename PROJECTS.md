@@ -16,7 +16,7 @@ Four primary projects organize this account. Start with the job; each repository
 ## A useful path through the projects
 
 1. Run the Company Stack synthetic example to see a task, evidence and a rejected success claim.
-2. Use ChatData when the next decision depends on data; keep the definition, sources, checks and uncertainty.
+2. Use ChatData when the next decision depends on data; keep the definition, sources, checks and uncertainty. To practice on a synthetic activation case, [start with the student kit](https://parasdoshicom.github.io/AI-Data-Analytics/course/#setup).
 3. Use Your Voice to turn supported findings into a blog, guide, update or explanation.
 4. Use the AI + Data Operator playbooks when moving from an individual workflow to team decisions, governance and adoption.
 5. Review and approve any external action, then check the actual destination.
